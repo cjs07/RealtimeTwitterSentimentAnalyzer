@@ -1,0 +1,364 @@
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623272423426,
+  "id_str": "822634623272423426",
+  "text": "RT @aviairy: fat josh was funnier than skinnier josh \n\ndont @ me",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623293390848,
+  "id_str": "822634623293390848",
+  "text": "RT @ayeshakhvn_: ppl who tell me to \"get over it,\" or \"he\u0027s our president now, so deal with it.\" Also don\u0027t realize how MANY lives are and…",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623284953089,
+  "id_str": "822634623284953089",
+  "text": "RT @BluntedBitchCT: This. This. This. ❤ https://t.co/pawd0vC21D",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623310135296,
+  "id_str": "822634623310135296",
+  "text": "RT @FlyingShadow89: Working on a couple new series! #smallyoutuber #gaming #rt  https://t.co/mP7wC0WXZP",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623284969472,
+  "id_str": "822634623284969472",
+  "text": "RT @Juvenescence__: Mom Leaves Newborn On Couch And Turns Away, Then Hears A Scream And Blood Everywhere,,\nhttps://t.co/D0JxL0fWkm",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623272386561,
+  "id_str": "822634623272386561",
+  "text": "RT @Juvenescence__: Mom Leaves Newborn On Couch And Turns Away, Then Hears A Scream And Blood Everywhere,,\nhttps://t.co/D0JxL0fWkm",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623289229314,
+  "id_str": "822634623289229314",
+  "text": "RT @Juvenescence__: Mom Leaves Newborn On Couch And Turns Away, Then Hears A Scream And Blood Everywhere,,\nhttps://t.co/D0JxL0fWkm",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623297527809,
+  "id_str": "822634623297527809",
+  "text": "RT @Juvenescence__: Mom Leaves Newborn On Couch And Turns Away, Then Hears A Scream And Blood Everywhere,,\nhttps://t.co/D0JxL0fWkm",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623301812226,
+  "id_str": "822634623301812226",
+  "text": "Them Dawgs got the W on Herm\u0027s night. #LongLiveHerman 0️⃣",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623280836608,
+  "id_str": "822634623280836608",
+  "text": "RT @Lrihendry: ❤️🇺🇸 Join me in wishing @KellyannePolls a very happy 50th birthday and thank her for heading up the winning #TRUMP… ",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623301722113,
+  "id_str": "822634623301722113",
+  "text": "RT @Juvenescence__: Mom Leaves Newborn On Couch And Turns Away, Then Hears A Scream And Blood Everywhere,,\nhttps://t.co/D0JxL0fWkm",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623289229319,
+  "id_str": "822634623289229319",
+  "text": "wHAT DID I DO https://t.co/qcbTmXSnBU",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623272370176,
+  "id_str": "822634623272370176",
+  "text": "@puffin98 @EdSkipper his economic \"plan\" foretold that. His border tax is going to mean higher prices not more jobs",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623276646400,
+  "id_str": "822634623276646400",
+  "text": "RT @RANDOMVlDS: SON IM CRYING. His teacher really said \"can you hand a nigga a pencil\" then said nigga 12 more times on camera 😭 https://t.…",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:12 +0000 2017",
+  "id": 822634623285006336,
+  "id_str": "822634623285006336",
+  "text": "come get ur hair done tomorrow!! 💇🏽 https://t.co/M4HiiIad1g",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627479273473,
+  "id_str": "822634627479273473",
+  "text": "JPMorgan Chase CEO gets $1M raise https://t.co/4Da5YCflu3",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627483443200,
+  "id_str": "822634627483443200",
+  "text": "Jonathan moves to reconcile with Obasanjo, holds closed-door talks  - h ...",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627466719233,
+  "id_str": "822634627466719233",
+  "text": "@EASPORTS_MUT it hit 500 who is it",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627475107841,
+  "id_str": "822634627475107841",
+  "text": "If your work doesn\u0027t let you have wine on your desk,… https://t.co/lKvKjkySJ7",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627496079362,
+  "id_str": "822634627496079362",
+  "text": "@KnightCBS21 @Sixers I agree, in 2020",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627483439104,
+  "id_str": "822634627483439104",
+  "text": "RT @HaydenPWeaver: I am absolutely rooting for Trump\u0027s success. Because today he is our president, and there is nothing we can do now but h…",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627504414721,
+  "id_str": "822634627504414721",
+  "text": "They\u0027re all the same height in their backs",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627470946308,
+  "id_str": "822634627470946308",
+  "text": "@jaden_moulton14 thanks Jaden:)))",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627475116035,
+  "id_str": "822634627475116035",
+  "text": "RT @syazwanizaidi_: Never ignore a person who cares for you bcs someday you’ll realize you’ve lost a diamond, while you were busy collectin…",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627500310528,
+  "id_str": "822634627500310528",
+  "text": "RT @san2borja: The final review. Thought I\u0027d be happier to not have to do this anymore but I\u0027m not. It ends the way it began. With… ",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627470884868,
+  "id_str": "822634627470884868",
+  "text": "RT @Warrenton21: Thank you Obama😭✊🏿 https://t.co/mtm9gkcUK1",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627500216321,
+  "id_str": "822634627500216321",
+  "text": "@Fightincowboy took me 30 min",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627466727425,
+  "id_str": "822634627466727425",
+  "text": "RT @nutellaANDpizza: How imma bounce back from every L taken in 2017. https://t.co/I5X4Uqkdkv",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627483504640,
+  "id_str": "822634627483504640",
+  "text": "RT @dieselpopeys: #jallikattu is an emotion.its a age old tradition why should it be banned why not ban PETA in India we font want foreign…",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627479326721,
+  "id_str": "822634627479326721",
+  "text": "@AngerMonkey omg I was! Wtf??",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627470860293,
+  "id_str": "822634627470860293",
+  "text": "@50th_President @realDonaldTrump I\u0027m excited bc this type of Reality, prevents BS like this from happening again",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627470868482,
+  "id_str": "822634627470868482",
+  "text": "@MadCat @Bricetacular trust me lmao",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627483439105,
+  "id_str": "822634627483439105",
+  "text": "RT @PAKKKGANERN: We all deserve to love and be loved.",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627496079361,
+  "id_str": "822634627496079361",
+  "text": "PERLIS FC has reached the top\n\nManager Taufiq\u0027s PERLIS FC won the Cup for the Regular Div.4!… https://t.co/Qp0tNfeUPn",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:13 +0000 2017",
+  "id": 822634627491893252,
+  "id_str": "822634627491893252",
+  "text": "Male Nude, Physique, 1950\u0027s Model Card, Western Photography Guild, 11x14 #2 https://t.co/INd9SnzG7j https://t.co/KZN5BEYqHi",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631686197248,
+  "id_str": "822634631686197248",
+  "text": "pretty neat ui. might consider playing again",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631686193152,
+  "id_str": "822634631686193152",
+  "text": "I want to destroy my heart that can\u0027t forget you [Screw - Genei no Kusari]",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631660969984,
+  "id_str": "822634631660969984",
+  "text": "RT @noelleromine7: Snow😻🌨❄️",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631686213633,
+  "id_str": "822634631686213633",
+  "text": "So I keep getting told I look pregnant",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631669420034,
+  "id_str": "822634631669420034",
+  "text": "RT @PulidoTracy: Longue Haired Brunette Pleasuring Elle-meme https://t.co/QMNJYwdF5c",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631677837312,
+  "id_str": "822634631677837312",
+  "text": "RT @kyliesparks: For a bunch who call people \"snowflakes,\" the nazis sure are whining a lot about Richard Spencer getting punched in the fa…",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631698808833,
+  "id_str": "822634631698808833",
+  "text": "#school girl sex photo sri lanka make a blowjob machine https://t.co/CYol2muv7D",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631681966083,
+  "id_str": "822634631681966083",
+  "text": "@_Oi_Kaka doeu ?",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631681994752,
+  "id_str": "822634631681994752",
+  "text": "RT @smokepurpp: fuck you.",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631677743107,
+  "id_str": "822634631677743107",
+  "text": "Thinking about the actions of today reminds me of the letter that I was sent by Bill Clinton, while he was President... Memories...",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631686221824,
+  "id_str": "822634631686221824",
+  "text": "@TheVampsBrad @JoeManager @Ad0ringSimpson yeah you yeah you",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631690391553,
+  "id_str": "822634631690391553",
+  "text": "RT @absolutejeon: ken walked over to dance with jin when the dude was singing \u0027jin go to sleep\u0027 in Korean lmao I love their friendship http…",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631698726914,
+  "id_str": "822634631698726914",
+  "text": "@SeaBats7 @CBSNews @realDonaldTrump but unlike your cohort, I\u0027ll view each thing he does individually and not blanket judge him.",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631677755398,
+  "id_str": "822634631677755398",
+  "text": "@FocusedRaja Where\u0027s that at",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631665225732,
+  "id_str": "822634631665225732",
+  "text": "RT @__isaiahwilson: for all you people using the #notmypresident .. https://t.co/cYDg3icrOx",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631677771776,
+  "id_str": "822634631677771776",
+  "text": "@mwoody68 @USATODAY ABA opinion wouldn\u0027t carry any weight. I think Eisen, Painter, and Tribe have more sway and a louder voice.",
+  "lang": "en"
+}
+{
+  "created_at": "Sat Jan 21 02:39:14 +0000 2017",
+  "id": 822634631669444608,
+  "id_str": "822634631669444608",
+  "text": "RT @CarltonFC: Winners are grinners! Carlton 8.4.52 def. @melbournefc 1.3.9 in today\u0027s @aflwomens practice match at Ikon Park.… ",
+  "lang": "en"
+}
