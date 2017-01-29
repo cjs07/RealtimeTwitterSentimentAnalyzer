@@ -20,6 +20,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
@@ -78,32 +79,42 @@ public class TweetCollector implements Runnable {
         this(auth.getConsumer(), auth.getConsumerSecret(), auth.getToken(), auth.getTokenSecret());
     }
 
-     //Used for asynchronous collection of tweets
+    //Used for asynchronous collection of tweets
     public void run() {
-        //collect a single tweet and print it
+        ArrayList<String> messages = new ArrayList<String>();
+        ArrayList<Tweet> tweets = new ArrayList<Tweet>();
+        //collect tweets as long as the client is still running
         while(!client.isDone()) {
-            String message = "";
+            if (messageQueue.size() > 0) {
+                for (String s : messageQueue) {
+                    messages.add(s);
+                    //convert json string from twitter into Tweet object
+                    tweets.add(deserializer.deserialize(s));
+                }
+                messageQueue.clear();
+            } else { //if there are no tweets, sleep the thread and try again from beginning of loop
+//                try {
+//                    Thread.sleep(10);
+                    continue;
+//                } catch (InterruptedException e) {
+//                    e.printStackTrace();
+//                }
+            }
+
+            //check each tweet to make sure it exists and is in english
+            tweets.removeIf(e -> e == null || e.getLang() == null || !e.getLang().equals("en"));
+            tweets.forEach(e -> writer.append(serializer.serialize(e)));
+            writer.flush();
             try {
-                message = messageQueue.take();
-            } catch (InterruptedException e) {
+                csvWriter.write(tweets.toArray()); //write tweets to csv file
+                messages.clear();
+                tweets.clear();
+            } catch (IOException e) {
                 e.printStackTrace();
             }
-            //convert json string from twitter into Tweet object
-            Tweet tweet = deserializer.deserialize(message);
 
-            //tweet is in english and actually exists
-            if (tweet != null && tweet.getLang() != null && tweet.getLang().equals("en")) {
-                System.out.println(tweet);
-                writer.append(serializer.serialize(tweet)).append("\n"); //write tweet to file in json format
-                writer.flush();
-                try {
-                    csvWriter.write(tweet); //write tweet to csv file
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-            }
             try {
-                Thread.sleep(100);
+                Thread.sleep(10);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

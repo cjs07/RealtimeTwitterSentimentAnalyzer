@@ -1,0 +1,12 @@
+collected_tweets.csv filter=lfs diff=lfs merge=lfs -text
+fri_tweets.csv filter=lfs diff=lfs merge=lfs -text
+mon_tweets.csv filter=lfs diff=lfs merge=lfs -text
+sat_tweets.csv filter=lfs diff=lfs merge=lfs -text
+sentiment_analysis_dataset.csv filter=lfs diff=lfs merge=lfs -text
+sun_tweets.csv filter=lfs diff=lfs merge=lfs -text
+test_values.csv filter=lfs diff=lfs merge=lfs -text
+testdata_manual_2009_06_14.csv filter=lfs diff=lfs merge=lfs -text
+thu_tweets.csv filter=lfs diff=lfs merge=lfs -text
+training_1600000_processed_noemoticon.csv filter=lfs diff=lfs merge=lfs -text
+tue_tweets.csv filter=lfs diff=lfs merge=lfs -text
+wed_tweets.csv filter=lfs diff=lfs merge=lfs -text
